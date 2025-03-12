@@ -1,3 +1,11 @@
+Written by sqa.
+
+This repo is for trying T5x usage on Jax, mainly for Text-to-image generation text encoder.
+
+According to SD3, we only use the `T5-v1.1-XXL` model.
+
+Official documents:
+
 # T5X
 
 *Go to [T5X ReadTheDocs Documentation Page](https://t5x.readthedocs.io/).*
